@@ -5,17 +5,55 @@
 body {
     margin: 0;
     padding: 0;
-    font-family:'Dosis', sans-serif;
+    font-family:'Dosis', sans-serif; 
+    
 }
 
+div {
+    font-family: 'Dosis', sans-serif;
+    color: ;
+}
 
+.name {
+    color: #818185;
 
-.material-icons-outlined {
+}
+
+.emoji {
+    color: #B19CD7;
+}
+
+#frontend {
+    color: #B19CD7;
+}
+
+#btn-color {
+    background-color: #C0AFE2;
+    color: white;
+}
+.material-symbols-rounded {
     vertical-align: middle;
     line-height: 1px;
 }
 
-.navbar > .material-icons-outlined {
+.navbar > .material-symbols-rounded {
     font-size: 40px;
     font-family: 'Dosis';
+}
+
+.about > .material-symbols-rounded {
+    font-size: 50px;
+    color: #B19CD7;
+}
+
+.rounded-pill{
+    background-color: #B19CD7;
+}
+
+a .btn-sm {
+    border-color: #B19CD7;
+}
+
+.card > img {
+    height: 250px;
 }
