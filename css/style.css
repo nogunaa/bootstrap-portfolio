@@ -6,13 +6,13 @@ body {
     margin: 0;
     padding: 0;
     font-family:'Dosis', sans-serif; 
-    
+    /* padding-top: 70px; */
 }
 
-div {
+/* div {
     font-family: 'Dosis', sans-serif;
-    color: ;
-}
+    /* color: ; */
+/* } */ */
 
 .name {
     color: #818185;
@@ -60,4 +60,8 @@ a .btn-sm {
 
 #map { 
     height: 300px; 
+}
+
+.in-icon {
+    color: #818185;
 }
