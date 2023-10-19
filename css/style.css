@@ -65,3 +65,9 @@ a .btn-sm {
 .in-icon {
     color: #818185;
 }
+
+p .card-text {
+    overflow: scroll;
+    cursor: pointer;
+    height: 100px;
+}
